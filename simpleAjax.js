@@ -24,3 +24,6 @@ function addNewDog(){
   document.querySelector('.add-dog').addEventListener('click', addNewDog);
 
   console.log('this will log first');
+
+
+  // This code was written by @andrewlopezcodes on githbub
